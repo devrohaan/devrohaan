@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjkweW9vM3JjbDk3bm1naG9idXFyZTQ0a2ljb3FsZWd6OHZyb3p0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6u2W5yqgkdV98K9OyB/giphy.gif" height="220" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjkweW9vM3JjbDk3bm1naG9idXFyZTQ0a2ljb3FsZWd6OHZyb3p0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6u2W5yqgkdV98K9OyB/giphy.gif" height="200" width="290" />
 </p>
 
   <h2 align="center">Hey, I'm Rohan Bagwe
