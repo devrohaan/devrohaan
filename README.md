@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <span style="font-size:28Px; font-weight:bold;">Hey, I'm Rohan Bagwe</span>
+  <span style="font-size:28px; font-weight:bold;">Hey, I'm Rohan Bagwe</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34">
   <br>
   <span style="font-size:14px; color:gray;">Full Stack Engineer | AI-Driven & Scalable System Architecture</span>
