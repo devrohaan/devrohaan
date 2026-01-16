@@ -2,13 +2,13 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjkweW9vM3JjbDk3bm1naG9idXFyZTQ0a2ljb3FsZWd6OHZyb3p0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6u2W5yqgkdV98K9OyB/giphy.gif" height="240" width="290" />
 </p>
 
-  <h2 align="center">Hey, I'm Rohan Bagwe
+  <h2 align="center">Hey, I'm Rohan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34">
   </h2>
   
-  <h5 align="center" style="color:gray;">Full Stack Engineer | AI-Driven & Scalable System Architecture</h5>
-
+  <h5 align="center" style="color:gray;">Full Stack Engineer | AI-Driven & Scalable System Design</h5>
 <br />
+
 <div align="left">
 <p>
 I've <strong>10+</strong> years of experience building scalable, high-performance products across startups, multinational organizations, and freelance projects. I've contributed across the entire product lifecycle — from idea and system architecture to development, deployment, and performance optimization.
